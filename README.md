@@ -1,6 +1,6 @@
-# Smart Reply — public pages
+# AI Smart Reply — public pages
 
-Static **Privacy Policy** and **Support** pages for the Smart Reply Outlook add-in (R-Technologies), published with **GitHub Pages**.
+Static **Privacy Policy** and **Support** pages for the AI Smart Reply Outlook add-in (R-Technologies), published with **GitHub Pages**.
 
 ## GitHub Pages setup
 
